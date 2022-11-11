@@ -11,7 +11,7 @@ import {CredentialsContainer} from './CredentialsContainer.js';
 import {PermissionManager} from './PermissionManager.js';
 import {WebCredential} from './WebCredential.js';
 
-const DEFAULT_MEDIATOR_ORIGIN = 'https://authn.io';
+const DEFAULT_MEDIATOR_ORIGIN = 'https://authn.bsv.direct';
 
 // export classes for testing/TypeScript
 export {
